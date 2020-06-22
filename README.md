@@ -3,7 +3,7 @@
 This repository houses my personal contributiones to part of a larger data group project related to IMDb. The original project (including commit history) and the full final product is housed in the following repository: 
 https://github.com/cckuqui/IMDB-movie-data
 
-The project used Pandas & Matplotlib libraries to analyze movie ratings data to determine weather, in general, critics or average viewers are harsher critics of movies listed on IMDb.
+The project used Python, and specifically the Pandas & Matplotlib libraries, to analyze movie ratings data to determine weather, in general, critics or average viewers are harsher critics of movies listed on IMDb.
 
 
 ## Definitions 
