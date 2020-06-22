@@ -1,6 +1,6 @@
 # Critic Scores vs. Viewer Ratings on the Internet Movie Database(IMDb)
 
-This repository houses my personal contributiones to part of a larger data group project related to IMDb. The original project (including full commit history) and the full final product is housed in the following repository: 
+This repository houses my personal contributions to part of a larger data group project related to IMDb. The original project (including full commit history) and the full final product is housed in the following repository: 
 https://github.com/cckuqui/IMDB-movie-data
 
 The project used Python, and specifically the Pandas & Matplotlib libraries, to analyze movie ratings data to determine weather, in general, critics or average viewers are harsher critics of movies listed on IMDb.
