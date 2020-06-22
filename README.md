@@ -6,6 +6,13 @@ https://github.com/cckuqui/IMDB-movie-data
 The project used Python, and specifically the Pandas & Matplotlib libraries, to analyze movie ratings data to determine weather, in general, critics or average viewers are harsher critics of movies listed on IMDb.
 
 
+## Contents
+* The 2 datasets used for this portion of the project analysis
+* The jupyter notebook used for all data analysis (via Python)
+* The slides used for the project presentation
+* A pdf copy of the final Powerpoint presentation
+
+
 ## Definitions 
 In order to be able to compare the two measures, it is important to understand how each measure is created and the scale on which it is measured.
 
