@@ -1,4 +1,4 @@
-# Crtic Scores vs. Viewer Ratings on the Internet Movie Database (IMDb)
+# Critic Scores vs. Viewer Ratings on the Internet Movie Database(IMDb)
 
 This repository houses my personal contributiones to part of a larger data group project related to IMDb. The original project (including commit history) and the full final product is housed in the following repository: `https://github.com/cckuqui/IMDB-movie-data`
 
