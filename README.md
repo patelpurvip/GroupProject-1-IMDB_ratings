@@ -13,7 +13,7 @@ The project used Python, and specifically the Pandas & Matplotlib libraries, to 
 * The slides used for the project presentation
 * A pdf copy of the final Powerpoint presentation
 
-
+![Analysis Question](Images/question.png)
 ## Definitions 
 In order to be able to compare the two measures, it is important to understand how each measure is created and the scale on which it is measured.
 
@@ -28,6 +28,8 @@ Only 74,196 of the total movies listed in IMDB (at the time) had been reviewed b
 Additionally, and more importantly, only 12,722 movies had been given a metascore - meaning they were reviewed by at least 4 critics and assigned a score rating the qulaity of the movie. Without a metascore, a movie had no measure listed related to how critics rated the quality the movie.
 
 Thus, the dataset Had to be limited to only the movies with an assigned metascore that had also been reviwed by viewers. After data cleaning, the resulting data set had 12,662 entries, which were used for the final analysis. 
+
+![Data Cleaning](Images/data_cleaning.png)
 
 
 ## General Conclusions
@@ -49,10 +51,13 @@ Additional obersvations:
 
 * Both IMDB users and critics had similar "average year of release" for bad movies (used as a proxy measure for "worst decade") -- the 2010s for both groups (2007 vs. 2004).
 
+![Decade_Analysis](Images/decades.png)
 
 ## Gender & Nationality Comparisons
 In general, females viewers rated movies slightly more favorably than male viewers. This trend was consistent across all age ranges when the data are divide by age. Older viewers (both male and female) consistently gave less favorable ratings than viewers younger than them.
 
 Average ratings from US viewers also tended to be slightly higher than ratings from viewers in other countries.
 
+![Gender and Age Analysis](Images/gender_age_ratings.png)
 
+![Nationality Analysis](Images/nationality_ratings.png)
