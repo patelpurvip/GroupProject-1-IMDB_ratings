@@ -42,6 +42,7 @@ As far as a direct comparison of how well users rated a movie vs. critics, we ha
 
 * a closer look at the average ratings and metascores for viewers' and critics' 100 favorite and least favorites movies (as well as the top 5 and bottom 5 titles for each group) confirm that viewers and critics often values different characteristics in their "favorite" movies.  
 
+![Summary](Images/summary.png)
 
 ## Reviews by Movie Decade
 On average, both viwers and critics rated movies from the 1960s and earlier higher than movies made in the 1970s and after. However, the vast majority of the movies in IMDB were made in the 1970s and afterwards. It could be that the better the quality of movies made before 1070, the more likely it is to be listed and reviewed on IMDB. More recent movies might be more likely to be listed on IMDB regardless of quality, thus bring the average scores for reviews of recent movies down.
