@@ -22,7 +22,7 @@ For the purpose of this project, only two of the csv files were used (Movies and
 
 ## Research Question:
 ![Analysis Question](Images/question.png)
-For the purposes of this project, I attempted to see if the viewer ratings and critic review scores could be compared to determine who, as a group, were the "tougher" critics.
+For the purposes of this project, I attempted to see if the viewer ratings and critic review scores could be compared to determine who, as a group, were the "harsher" critics.
 
 ## Definitions 
 In order to be able to compare the two measures, it is important to understand how each measure is created and the scale on which it is measured.
