@@ -5,9 +5,13 @@
 ## Background
 This repository houses my personal contributions to part of a larger data group project related to IMDb. The original project (including commit history) and the full final product is housed in the following [repository](https://github.com/cckuqui/IMDB-movie-data).
 
-The [original dataset](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset) was retrived from Kaggle and updated by Stefano Leone. This Dataset was scraped from IMDb, the most popular movie website on the internet. 
-
-The data analysis documented here used Python, and specifically the Pandas & Matplotlib libraries, to analyze movie ratings data to determine weather, in general, critics or average viewers are harsher critics of movies listed on IMDb.
+The [original dataset](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset) was retrived from Kaggle and updated by Stefano Leone. This dataset was scraped from IMDb - the most popular movie website on the internet - and divided into 4 categories, with each category housed in its own csv file: 
+  * Movies: contains 81,273 movies with 22 attributes. Some of them are ilustrated below
+  * Names (cast members): contains 175,719 cast members with 20 attributes
+  * Ratings: contains 81,273 movies with 49 attributes
+  * Title Principals (cast members roles): contains 377,848 cast members roles in movies with 6 attributes
+  
+For the purpose of this project, only two of csv files were used (Movies and Ratings). The data analysis documented here used Python, and specifically the Pandas & Matplotlib libraries, to analyze movie ratings data to determine weather, in general, critics or average viewers are harsher critics of movies listed on IMDb.
 
 
 ## Contents
